@@ -1,5 +1,6 @@
 # blair-family-clan
-Open Source Blair Family Information - Can be imported to Ancestry, Gramps, Etc.
+
+The Blair surname is of great antiquity, first appearing in Scotland in the 12th and early 13th centuries. The "word" Blair is strongly believed to be territorial in origin, being derived from the Gaelic "Blar" which signifies a field clear of woods or a battlefield. From this, the "name" Blair takes on its territorial connotation. The very early records tell us that "Blair" was originally spelled "Blare" and that there followed a gradual transition to "Blair", completed around 1400. Today, we know of no one using the original Blare spelling.
 
 ## Family
 
@@ -10,6 +11,14 @@ The Blair clan in Winnipeg is made up of the Blairs from Northern Ireland and th
 ## Usage
 
 You can import this information into software like Gramps, Ancestry or other geneological information to add to and take from for your own family if you happen to be connected to our clan.
+
+You will want to import the .ged file for the data.
+
+https://github.com/CMDann/blair-family-clan/blob/master/Blair%20Clan%20Heritage.ged
+
+## Contribution
+
+You can make edits and save the file again to send it back to be updated. If you're familiar with Git you can create a pull request to update the file, if not you can send the file to me directly cmdann+genealogy@gmail.com
 
 ## License
 ```
