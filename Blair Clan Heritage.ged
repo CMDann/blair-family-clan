@@ -1,0 +1,1981 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 BIRT 
+2 DATE 4 Sep 1990
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Daniel /Blair/
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F1@
+1 FAMS @F22@
+0 @P2@ INDI 
+1 BIRT 
+2 DATE Oct 10 1992
+2 PLAC Winnipeg Manitoba Canada
+1 SEX F
+1 NAME Erin Maria /Brown/
+1 FAMS @F1@
+0 @P3@ INDI 
+1 BIRT 
+2 DATE Jun 14 2008
+2 PLAC Winnipeg Manitoba Canada
+1 SEX F
+1 NAME Emily /Blair/
+1 FAMC @F22@
+0 @P4@ INDI 
+1 RESI 
+2 DATE 1991
+2 PLAC Winnipeg, Manitoba, Canada
+1 BIRT 
+2 DATE 1961
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Barbara /Chemar/
+1 SEX F
+1 FAMC @F4@
+1 FAMS @F2@
+0 @P5@ INDI 
+1 SEX M
+1 RESI 
+2 DATE 1991
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Kevin /Blair/
+1 BIRT 
+2 DATE 1961
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F3@
+1 FAMS @F2@
+0 @P6@ INDI 
+1 BIRT 
+2 DATE 14 Feb 1994
+2 PLAC Winnipeg Manitoba Canada
+1 NAME Michael /Blair/
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F25@
+0 @P7@ INDI 
+1 BIRT 
+2 DATE Nov 28 1991
+2 PLAC Winnipeg Manitoba Canada
+1 NAME Andrew /Blair/
+1 SEX M
+1 FAMC @F2@
+0 @P8@ INDI 
+1 BIRT 
+2 DATE Feb 20 1930
+2 PLAC Meadows, Manitoba
+1 DEAT 
+2 DATE June 15 2015
+2 PLAC Winnipeg Manitoba Canada
+1 NAME Irving Boyd /Blair/
+1 SEX M
+1 NAME Irving Boyd /Blair/
+1 NAME Irving Boyd /Blair/
+1 NAME Irving Boyd /Blair/
+1 RESI 
+2 DATE 1961
+2 PLAC Winnipeg, Manitoba, Canada
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=8
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=596515fc-c733-42d3-a8c7-3b8423cd7b2e&tid=102304546&pid=8
+2 FORM jpg
+2 TITL Peggy Jones Irving Blair
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=bff1baaf-6189-4eab-bcab-a6764c6e7b40&tid=102304546&pid=8
+2 FORM jpg
+2 TITL Peggy Jones Irving Blair
+1 FAMC @F5@
+1 FAMS @F3@
+0 @P9@ INDI 
+1 SEX F
+1 NAME Peggy /Jones/
+1 RESI 
+2 DATE 1961
+2 PLAC Winnipeg, Manitoba, Canada
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=596515fc-c733-42d3-a8c7-3b8423cd7b2e&tid=102304546&pid=9
+2 FORM jpg
+2 TITL Peggy Jones Irving Blair
+1 FAMC @F8@
+1 FAMS @F3@
+0 @P10@ INDI 
+1 DEAT 
+2 DATE Aug 17 2013
+2 PLAC Regina, Saskatchewan, Canada
+1 BIRT 
+2 DATE 06 Jul 1953
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Kenneth Wayne /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=10
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=78625d2c-c3d5-4159-ba23-56b628398a89&tid=102304546&pid=10
+2 FORM jpg
+2 TITL Maren & Dad
+1 FAMC @F3@
+1 FAMS @F6@
+0 @P11@ INDI 
+1 BIRT 
+2 DATE 5 Aug 1887
+1 DEAT 
+2 DATE 8 Oct 1968
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Mary Moon /McKee/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=11
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=594cdc7d-eec0-4f7b-8f92-c6d4da2e6e9c&tid=102304546&pid=11
+2 FORM jpg
+2 TITL Blair Family
+1 FAMC @F7@
+1 FAMS @F5@
+0 @P12@ INDI 
+1 DEAT 
+2 DATE 4 Sep 1962
+2 PLAC Winnipeg, Manitoba, Canada
+1 BIRT 
+2 DATE 8 Jun 1879
+2 PLAC Northern Ireland
+1 NAME Robert /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=12
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=57346bf4-331e-49f3-95d0-4d797b54999f&tid=102304546&pid=12
+2 FORM jpg
+2 TITL Blair Family
+1 FAMC @F10@
+1 FAMS @F5@
+0 @P13@ INDI 
+1 NAME Ida Mary /Borley/
+2 SOUR @S401849922@
+3 _APID 1,70600::1096285
+1 BIRT 
+2 DATE 11 Jul 1907
+2 PLAC Helmingham, Suffolk, England
+1 DEAT 
+2 DATE 24 Nov 1996
+2 PLAC Winnipeg Manitoba Canada
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=13
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=1e224684-1579-4daf-9229-75b331bea9c3&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Ida Mary
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=1f4b8eb3-6244-4931-8bac-389e2bf48027&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Jack & Ida Jones
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3a19f19a-ff98-466a-b531-cf38d03695a2&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Nanny at work
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=4186acda-a4b5-479e-a671-8a5d48c9b610&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Ida Mary - Age 17
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=5008e64c-a793-4b8c-b9ca-03fe19453b2e&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Ida and Jack on a school board trip with Irene and Clarence Franklin
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8e19767a-9e06-42af-bb3d-d645f072a2cd&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Ida Mary Borley arrival in Canada
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a94cab49-ffec-45af-8f6c-7c7f2bec349c&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Borley Family
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=ad3244b3-4fb2-4103-80cb-2ce92c1325ec&tid=102304546&pid=13
+2 FORM jpg
+2 TITL Dora, Herbert and Ida Borley
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=f5125c38-387e-4edb-b022-5f68e8f22306&tid=102304546&pid=13
+2 FORM jpg
+2 TITL iPhone Photo
+1 FAMC @F9@
+1 FAMS @F8@
+0 @P14@ INDI 
+1 NAME John /Jones/
+2 SOUR @S401849922@
+3 _APID 1,70600::1096284
+1 BIRT 
+2 DATE April 10, 1900
+2 PLAC Titley, Herefordshire, England
+1 DEAT 
+2 DATE April 5 1976
+2 PLAC Winnipeg Manitoba Canada
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=14
+1 FAMC @F11@
+1 FAMS @F8@
+0 @P15@ INDI 
+1 BIRT 
+2 DATE 5 April 1935
+2 SOUR @S401847315@
+3 PAGE Publication Date: 01/ 1/ 2014; Web edition: http://passages.winnipegfreepress.com/passage-details/id-209147/name-Roger_Chemar/min-run-date-1388469600/order-publish_date|DESC,last_name|ASC/
+3 _APID 1,8961::238558034
+1 DEAT 
+2 DATE 27 December 2013
+2 SOUR @S401847315@
+3 PAGE Publication Date: 01/ 1/ 2014; Web edition: http://passages.winnipegfreepress.com/passage-details/id-209147/name-Roger_Chemar/min-run-date-1388469600/order-publish_date|DESC,last_name|ASC/
+3 _APID 1,8961::238558034
+1 NAME Roger /Chemar/
+2 SOUR @S401847315@
+3 PAGE Publication Date: 01/ 1/ 2014; Web edition: http://passages.winnipegfreepress.com/passage-details/id-209147/name-Roger_Chemar/min-run-date-1388469600/order-publish_date|DESC,last_name|ASC/
+3 _APID 1,8961::238558034
+1 SEX M
+1 RESI 
+2 DATE 1961
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F19@
+1 FAMS @F4@
+0 @P16@ INDI 
+1 NAME Cybil /Kopchuk/
+1 SEX F
+1 RESI 
+2 DATE 1961
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F18@
+1 FAMS @F4@
+0 @P17@ INDI 
+1 SEX F
+1 NAME Janice /Chemar/
+1 FAMC @F4@
+1 FAMS @F28@
+0 @P18@ INDI 
+1 DEAT 
+2 PLAC Winnipeg Manitoba Canada
+1 SEX F
+1 NAME Nellie
+1 FAMS @F19@
+0 @P19@ INDI 
+1 DEAT 
+2 PLAC Winnipeg Manitoba Canada
+1 NAME William /Chemar/
+1 SEX M
+1 FAMS @F19@
+0 @P20@ INDI 
+1 SEX M
+1 NAME William /Kopchuk/
+1 FAMS @F18@
+0 @P21@ INDI 
+1 SEX F
+1 NAME Mary
+1 FAMS @F18@
+0 @P22@ INDI 
+1 BIRT 
+2 DATE 19 11 1912
+2 PLAC Northern Ireland
+1 DEAT 
+2 DATE 03 30 1990
+1 NAME Robert Alexander /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=22
+1 FAMC @F5@
+0 @P23@ INDI 
+1 DEAT 
+2 DATE about 1920
+2 PLAC Northern Ireland
+1 BIRT 
+2 DATE 1918
+2 PLAC Northern Ireland
+1 NAME James /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=23
+1 FAMC @F5@
+0 @P24@ INDI 
+1 BIRT 
+2 DATE December 14, 1916
+2 PLAC Northern Ireland
+1 DEAT 
+2 DATE January 01, 1998
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME John /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=24
+1 FAMC @F5@
+0 @P25@ INDI 
+1 BIRT 
+2 DATE November 07, 1927
+2 PLAC Northern Ireland
+1 DEAT 
+2 DATE January 25, 2011
+2 PLAC Whiterock, British Columbia, Canada
+1 NAME Ronald /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=25
+1 FAMC @F5@
+0 @P26@ INDI 
+1 DEAT 
+2 DATE 1924
+2 PLAC Northern Ireland
+1 BIRT 
+2 DATE 1920
+2 PLAC Northern Ireland
+1 NAME Ann /Blair/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=26
+1 FAMC @F5@
+0 @P27@ INDI 
+1 BIRT 
+2 DATE abt 1922
+2 PLAC Northern Ireland
+1 DEAT 
+2 DATE About 1948
+1 NAME Sarah (Sally) /Blair/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=27
+1 FAMC @F5@
+0 @P28@ INDI 
+1 DEAT 
+2 DATE May 05, 1981
+1 BIRT 
+2 DATE May 13, 1924
+2 PLAC Northern Ireland
+1 NAME Richard Thompson /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=28
+1 FAMC @F5@
+0 @P29@ INDI 
+1 BIRT 
+2 DATE 18 January 1914
+2 PLAC N. Ireland
+1 DEAT 
+2 DATE May 28, 1944
+1 NAME William /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=29
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=c435e291-9555-4a79-94ef-ed1c2e42c71a&tid=102304546&pid=29
+2 FORM jpg
+2 TITL William Blair Grave
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=df55395f-57a5-405b-bfd8-2b1558c426a9&tid=102304546&pid=29
+2 FORM jpg
+2 TITL William Blair
+1 FAMC @F5@
+0 @P30@ INDI 
+1 BIRT 
+2 DATE June 17, 1926
+2 PLAC Northern Ireland
+1 DEAT 
+2 DATE November 28, 1998
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME George Ross /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=30
+1 FAMC @F5@
+0 @P31@ INDI 
+1 BIRT 
+2 DATE December 27, 1915
+2 PLAC Northern Ireland
+1 DEAT 
+2 DATE April 7, 2006
+1 NAME Martha (Maude) /Blair/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=31
+1 FAMC @F5@
+0 @P32@ INDI 
+1 BIRT 
+2 DATE 1837
+2 PLAC Northern Ireland
+1 NAME Martha /Hickison/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=32
+1 FAMC @F23@
+1 FAMS @F10@
+0 @P33@ INDI 
+1 BIRT 
+2 DATE 1830
+2 PLAC Northern Ireland
+1 NAME Robert /Blair/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=33
+1 FAMC @F24@
+1 FAMS @F10@
+0 @P34@ INDI 
+1 SEX F
+1 NAME Holly /Blair/
+1 FAMC @F6@
+1 FAMS @F26@
+0 @P35@ INDI 
+1 NAME Maren /Blair/
+1 SEX F
+1 FAMC @F6@
+0 @P36@ INDI 
+1 BIRT 
+2 DATE 17 Sept 1950
+2 PLAC Toronto, Ontario, Canada
+1 NAME Florence Pearl /Green/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=36
+1 FAMS @F6@
+0 @P37@ INDI 
+1 NAME Annie /Moon/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=37
+1 FAMS @F7@
+0 @P38@ INDI 
+1 NAME William /McKee/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=38
+1 FAMS @F7@
+0 @P39@ INDI 
+1 BIRT 
+2 DATE 23 Nov 1861
+2 PLAC Llandinam, Montgomeryshire, Wales
+1 NAME Mary Ann /Bound/
+1 DEAT 
+2 DATE 13 Jan 1942
+2 PLAC Winnipeg, Manitoba, Canada
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=39
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a150f47b-1a69-4dd8-b969-951d21650604&tid=102304546&pid=39
+2 FORM jpg
+2 TITL Jones & Bound in Powys
+1 FAMC @F12@
+1 FAMS @F11@
+0 @P40@ INDI 
+1 BIRT 
+2 DATE 9 Aug 1860
+2 PLAC Abbeycwmhir, Radnorshire, Wales
+1 DEAT 
+2 DATE 4 Nov 1929
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME David Hamer /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=40
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=299820fc-03d3-413d-b6e0-0a633366c708&tid=102304546&pid=40
+2 FORM jpg
+2 TITL Jones & Bound in Powys
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=d77a94c5-1ee3-467e-8737-2273f8c7995d&tid=102304546&pid=40
+2 FORM jpg
+2 TITL david hamer birth certificate
+1 FAMC @F13@
+1 FAMS @F11@
+0 @P41@ INDI 
+1 BIRT 
+2 DATE Sept 15 1939
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT 
+2 DATE June 4 1996
+2 PLAC Brandon, Manitoba, Canada
+1 NAME Evan Howell "Butch" /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=41
+1 FAMC @F8@
+0 @P42@ INDI 
+1 DEAT 
+2 DATE March 20 2011
+2 PLAC Winnipeg, Manitoba, Canada
+1 BIRT 
+2 DATE Nov 4 1945
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Eleanor Mae /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=42
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2712f05d-4eca-4661-b6c2-2f55f0adf6f6&tid=102304546&pid=42
+2 FORM jpg
+2 TITL Eleanor 14 yrs
+1 FAMC @F8@
+0 @P43@ INDI 
+1 BIRT 
+2 DATE Feb 7 1930
+2 PLAC Manitoba, Canada
+1 DEAT 
+2 DATE July 13, 2014
+2 PLAC Calgary, Alberta, Canada
+1 NAME Ralph David /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=43
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=fcb5777d-f7fe-458c-a4e2-143a321770be&tid=102304546&pid=43
+2 FORM jpg
+2 TITL Ralph Grandma Borley Ed Butch
+1 FAMC @F8@
+0 @P44@ INDI 
+1 BIRT 
+2 DATE June 11, 1927
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT 
+2 DATE July 22 2004
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Dora Elizabeth /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=44
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=99fbd5be-2006-4458-b566-4f61d6553f1a&tid=102304546&pid=44
+2 FORM jpg
+2 TITL Spencer and Dora's wedding
+1 FAMC @F8@
+0 @P45@ INDI 
+1 BIRT 
+2 DATE December 12, 1928
+2 PLAC Pigeon Lake, Manitoba, Canada
+1 DEAT 
+2 DATE February 15 1997
+2 PLAC Winnipeg, Manitoba, Canada
+1 NAME Edwin James /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=45
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=b5d689d4-871a-4aab-81bf-08e98deb6c19&tid=102304546&pid=45
+2 FORM jpg
+2 TITL Ed Jones fishing the Assiniboine behind Jones store
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=f9e96441-176b-4270-9d17-0c3233ac7c3e&tid=102304546&pid=45
+2 FORM jpg
+2 TITL Ed Goose Hunting with friends in Churchill Mb
+1 FAMC @F8@
+0 @P46@ INDI 
+1 DEAT 
+2 DATE 6 October 1961
+2 PLAC Winnipeg Manitoba Canada
+1 BIRT 
+2 DATE June 13 1886
+2 PLAC Falkenham, Suffolk, England
+1 NAME Dora Amelia /Howell/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=46
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=71223aa6-7234-49d8-9941-a2090d49eaff&tid=102304546&pid=46
+2 FORM jpg
+2 TITL Ralph Grandma Borley Ed Butch
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=892ddde9-eab2-4df3-9e49-b53890ad233d&tid=102304546&pid=46
+2 FORM jpg
+2 TITL Borley Family
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=91ec9997-bd79-4d0b-b855-e4f2534a9403&tid=102304546&pid=46
+2 FORM jpg
+2 TITL Ida Mary Borley arrival in Canada
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=965bc4a3-1f7c-4180-80a8-0c534c3cff56&tid=102304546&pid=46
+2 FORM jpg
+2 TITL Dora, Herbert and Ida Borley
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=b82b5f29-0e73-472b-ad56-efb2b0a46f96&tid=102304546&pid=46
+2 FORM jpg
+2 TITL Dora Amelia Borley
+1 FAMC @F17@
+1 FAMS @F9@
+0 @P47@ INDI 
+1 BIRT 
+2 DATE abt 1880
+2 PLAC Helmingham, Suffolk, England
+1 DEAT 
+2 DATE 19 October 1958
+2 PLAC Winnipeg Manitoba Canada
+1 NAME Harry Charles /Borley/
+1 MARR 
+2 DATE July 1906
+2 PLAC Bosmere, Suffolk
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=47
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=06386fb0-3c91-417e-9e89-0e9abcafa853&tid=102304546&pid=47
+2 FORM jpg
+2 TITL Harry Charles Borley
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=7884824d-ca12-4358-93e3-0f725bc06785&tid=102304546&pid=47
+2 FORM jpg
+2 TITL Borley Family
+1 FAMC @F16@
+1 FAMS @F9@
+0 @P48@ INDI 
+1 BIRT 
+2 DATE 1840
+2 PLAC Winston, Suffolk, England
+1 DEAT 
+2 DATE 1918
+2 PLAC Bosmere, Suffolk, England
+1 NAME Eliza /Sheldrake/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=48
+1 FAMS @F16@
+0 @P49@ INDI 
+1 BIRT 
+2 DATE 1843
+2 PLAC Pettaugh, Suffolk, England
+1 DEAT 
+2 DATE October 1906
+2 PLAC Pettaugh, Suffolk, England
+1 NAME David /Borley/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=49
+1 FAMS @F16@
+0 @P50@ INDI 
+1 NAME Herbert David /Borley/
+1 BIRT 
+2 DATE April 24 1909
+2 PLAC Helmingham, Suffolk, England
+1 DEAT 
+2 DATE 07 Jun 1964
+2 PLAC Winnipeg, Manitoba, Canada
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=50
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=b67c6512-3a33-4d38-99b0-1d027e7b2916&tid=102304546&pid=50
+2 FORM jpg
+2 TITL Borley Family
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=feef3b7f-617d-4cfd-a21c-d1ee06bc8ee0&tid=102304546&pid=50
+2 FORM jpg
+2 TITL Dora, Herbert and Ida Borley
+1 FAMC @F9@
+0 @P51@ INDI 
+1 DEAT 
+2 DATE 1887
+1 BIRT 
+2 DATE 10 July 1857
+2 PLAC Falkenham, Suffolk, England
+1 NAME James /Howell/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=51
+1 FAMC @F20@
+1 FAMS @F17@
+0 @P52@ INDI 
+1 BIRT 
+2 DATE 1862
+2 PLAC Pettaugh, Suffolk, England
+1 DEAT 
+2 DATE 1896
+2 PLAC Bosmere, Suffolk
+1 NAME Emma Amelia /Theobald/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=52
+1 FAMS @F17@
+0 @P53@ INDI 
+1 BIRT 
+2 DATE 4 Feb 2012
+2 PLAC Winnipeg Manitoba Canada
+1 SEX M
+1 NAME Jason /Bailey/
+1 FAMC @F25@
+0 @P54@ INDI 
+1 SEX M
+1 NAME Robert /Blair/
+1 FAMS @F24@
+0 @P55@ INDI 
+1 DEAT 
+2 PLAC Northern Ireland
+1 BIRT 
+2 PLAC Northern Ireland
+1 NAME Isaac /Hickison/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=55
+1 FAMS @F23@
+0 @P56@ INDI 
+1 DEAT 
+2 DATE 21 Mar 1995
+2 PLAC Escondido, San Diego, California, USA
+1 BIRT 
+2 DATE Feb 14 1904
+2 PLAC Titley, Herefordshire, England
+1 NAME Albert Edwin /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=56
+1 FAMC @F11@
+0 @P57@ INDI 
+1 BIRT 
+2 DATE Jan 13 1898
+2 PLAC Herefordshire, Old Radnor, England
+1 DEAT 
+2 DATE Sept 10 1976
+1 NAME Miriam /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=57
+1 FAMC @F11@
+0 @P58@ INDI 
+1 BIRT 
+2 DATE Feb 27 1895
+2 PLAC Herefordshire, Old Radnor, England
+1 DEAT 
+2 DATE Sept 1 1979
+2 PLAC Winnipeg Manitoba Canada
+1 NAME Sarah Annie /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=58
+1 FAMC @F11@
+0 @P59@ INDI 
+1 BIRT 
+2 DATE Feb 10 1892
+2 PLAC Old Radnor, Radnorshire, Wales
+1 DEAT 
+2 DATE 20 January 1983
+2 PLAC Saskatchewan, Canada
+1 NAME Margaret Jane /Edwards/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=59
+1 FAMC @F11@
+0 @P60@ INDI 
+1 BIRT 
+2 DATE Nov 17 1889
+2 PLAC Old Radnor, Radnorshire, Wales
+1 DEAT 
+2 DATE Sept 22 1977
+2 PLAC Neepawa, Manitoba, Canada
+1 NAME David Thomas Tom /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=60
+1 FAMC @F11@
+0 @P61@ INDI 
+1 DEAT 
+2 DATE Aug 25 1970
+2 PLAC Brookdale, Manitoba, Canada
+1 BIRT 
+2 DATE Aug 25 1887
+2 PLAC New Radnor, Radnorshire, Wales
+1 NAME Joseph /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=61
+1 FAMC @F11@
+0 @P62@ INDI 
+1 DEAT 
+2 DATE July 12 1958
+1 BIRT 
+2 DATE Feb 17 1885
+2 PLAC Wales
+1 NAME Mary Elizabeth /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=62
+1 FAMC @F11@
+0 @P63@ INDI 
+1 NAME Mary /Hughes/
+1 BIRT 
+2 DATE 1827
+2 PLAC St Harmon, Radnorshire, Wales
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=63
+1 FAMS @F13@
+0 @P64@ INDI 
+1 BIRT 
+2 DATE 1827
+2 PLAC Llanbadarn Fynydd, Radnorshire, Wales
+1 DEAT 
+2 PLAC Radnorshire, Wales
+1 NAME Joseph /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=64
+1 FAMC @F14@
+1 FAMS @F13@
+0 @P65@ INDI 
+1 BIRT 
+2 DATE 1824
+2 PLAC Llangurig, Montgomeryshire, Wales
+1 DEAT 
+2 DATE Apr 1865
+2 PLAC Montgomeryshire, United Kingdom
+1 NAME Margaret /George/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=65
+1 FAMS @F12@
+0 @P66@ INDI 
+1 BIRT 
+2 DATE 1822
+2 PLAC Llandinam, Montgomeryshire, Wales
+1 DEAT 
+2 DATE 1907
+2 PLAC Newtown, Montgomeryshire, Wales
+1 NAME Joseph /Bound/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=66
+1 FAMS @F12@
+0 @P67@ INDI 
+1 NAME Sarah Jane /Bound/
+1 BIRT 
+2 DATE 1860
+2 PLAC Llandinam, Montgomeryshire, Wales
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=67
+1 FAMC @F12@
+0 @P68@ INDI 
+1 BIRT 
+2 DATE 1847
+2 PLAC Llandinam, Montgomeryshire, Wales
+1 NAME Margaret /Bound/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=68
+1 FAMC @F12@
+0 @P69@ INDI 
+1 BIRT 
+2 DATE 1852
+2 PLAC Llandinam, Montgomeryshire, Wales
+1 NAME Thomas /Bound/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=69
+1 FAMC @F12@
+0 @P70@ INDI 
+1 BIRT 
+2 DATE 1845
+2 PLAC Llandinam, Montgomeryshire, Wales
+1 DEAT 
+2 DATE Dec 1908
+2 PLAC Glamorgan, United Kingdom
+1 NAME Mary /Bound/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=70
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=acc233ac-941b-4bba-a471-215199169076&tid=102304546&pid=70
+2 FORM jpg
+2 TITL Jones & Bound in Powys
+1 FAMC @F12@
+0 @P71@ INDI 
+1 BIRT 
+2 DATE 1857
+2 PLAC Llandinam, Montgomeryshire, Wales
+1 DEAT 
+2 DATE Sep 1943
+2 PLAC Newtown, Montgomeryshire, Wales
+1 NAME Joseph /Bound/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=71
+1 FAMC @F12@
+1 FAMS @F21@
+0 @P72@ INDI 
+1 BIRT 
+2 DATE 1795
+2 PLAC Nantmel, Radnorshire, Wales
+1 NAME Elizabeth /Hamer/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=72
+1 FAMS @F14@
+0 @P73@ INDI 
+1 BIRT 
+2 DATE 1794
+2 PLAC Abbeycwmhir, Radnorshire, Wales
+1 NAME Joseph /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=73
+1 FAMS @F14@
+0 @P74@ INDI 
+1 BIRT 
+2 DATE 1866
+2 PLAC Abbeycwmhir, Radnorshire, Wales
+1 NAME Sarah Jane /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=74
+1 FAMC @F13@
+0 @P75@ INDI 
+1 BIRT 
+2 DATE 1871
+2 PLAC Abbeycwmhir, Radnorshire, Wales
+1 NAME Miriam /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=75
+1 FAMC @F13@
+0 @P76@ INDI 
+1 BIRT 
+2 DATE 1858
+2 PLAC Abbey-Cwmhir, Radnorshire, Wales
+1 NAME Margaret /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=76
+1 FAMC @F13@
+0 @P77@ INDI 
+1 BIRT 
+2 DATE 1854
+2 PLAC Abbey cwm hir, Radnorshire, Wales
+1 NAME Elizabeth /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=77
+1 FAMC @F13@
+0 @P78@ INDI 
+1 NAME Joseph /Jones/
+1 BIRT 
+2 DATE 1855
+2 PLAC Abbey cwm hir, Radnorshire, Wales
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=78
+1 FAMC @F13@
+0 @P79@ INDI 
+1 BIRT 
+2 DATE 1852
+2 PLAC Abbey-Cwmhir, Radnorshire, Wales
+1 NAME Mary /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=79
+1 FAMC @F13@
+0 @P80@ INDI 
+1 BIRT 
+2 DATE 1850
+2 PLAC Llananno, Radnorshire, Wales
+1 NAME Thomas Evans /Jones/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=80
+1 FAMC @F13@
+0 @P81@ INDI 
+1 NAME JANE /JONES/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=81
+1 FAMC @F14@
+0 @P82@ INDI 
+1 NAME ANN /JONES/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=82
+1 FAMC @F14@
+0 @P83@ INDI 
+1 BIRT 
+2 DATE 1835
+2 PLAC Llanbadarnfynydd, Radnorshire, Wales
+1 NAME Ann /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=83
+1 FAMC @F14@
+0 @P84@ INDI 
+1 BIRT 
+2 DATE 1833
+1 NAME Jane /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=84
+1 FAMC @F14@
+0 @P85@ INDI 
+1 BIRT 
+2 DATE 1837
+2 PLAC Llanbadarnfynydd, Radnorshire, Wales
+1 NAME Miriam /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=85
+1 FAMC @F14@
+0 @P86@ INDI 
+1 BIRT 
+2 DATE 1829
+2 PLAC Llanbadernfynidd, Radnorshire, Wales
+1 NAME Sarah /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=86
+1 FAMC @F14@
+0 @P87@ INDI 
+1 BIRT 
+2 DATE April 1839
+2 PLAC Abbey Cwmhir, Llanbadarnfynydd, Radnorshire, Wales
+1 DEAT 
+2 DATE Jan 1895
+2 PLAC Radnorshire, United Kingdom
+1 NAME Adeliza /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=87
+1 FAMC @F14@
+1 FAMS @F15@
+0 @P88@ INDI 
+1 BIRT 
+2 DATE Mar 1863
+2 PLAC Knighton/Beguildy, Radnorshire, Wales
+1 NAME Miriam /Wozencraft/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=88
+1 FAMC @F15@
+0 @P89@ INDI 
+1 BIRT 
+2 DATE abt 1868
+2 PLAC Beguildy, Radnorshire, Wales, 
+1 NAME Ann /Wozencraft/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=89
+1 FAMC @F15@
+0 @P90@ INDI 
+1 BIRT 
+2 DATE abt 1833
+2 PLAC Beguildy, Radnorshire, Wales, 
+1 NAME Richard /Wozencraft/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=90
+1 FAMS @F15@
+0 @P91@ INDI 
+1 BIRT 
+2 DATE abt 1866
+2 PLAC Radnorshire, Wales
+1 NAME Mary /Wozencraft/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=91
+1 FAMC @F15@
+0 @P92@ INDI 
+1 BIRT 
+2 DATE abt 1873
+2 PLAC Llangunllo, Radnorshire, Wales
+1 NAME Richard /Wozencraft/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=92
+1 FAMC @F15@
+0 @P93@ INDI 
+1 BIRT 
+2 DATE abt 1871
+2 PLAC Beguildy, Radnorshire, Wales
+1 NAME Elizabeth /Wozencraft/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=93
+1 FAMC @F15@
+0 @P94@ INDI 
+1 NAME Liam /Taylor/
+1 SEX M
+1 FAMC @F26@
+0 @P95@ INDI 
+1 BIRT 
+2 DATE Oct 2008
+2 PLAC Moosejaw, Saskatchewan, Canada
+1 SEX M
+1 NAME Luke /Taylor/
+1 FAMC @F26@
+0 @P96@ INDI 
+1 BIRT 
+2 DATE 1878
+2 PLAC Helmingham, Suffolk, England
+1 DEAT 
+2 DATE October 1882
+2 PLAC Bosmere, Suffolk, United Kingdom
+1 NAME Edward /Borley/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=96
+1 FAMC @F16@
+0 @P97@ INDI 
+1 BIRT 
+2 DATE Nov 19 1887
+2 PLAC Ipswich, Suffolk, England
+1 DEAT 
+2 DATE 27 Jan 1949
+2 PLAC Vancouver, British Columbia
+1 NAME William David /Borley/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=97
+1 FAMC @F16@
+0 @P98@ INDI 
+1 BIRT 
+2 DATE July 1875
+2 PLAC Helmingham, Suffolk, England
+1 DEAT 
+2 DATE January 1905
+2 PLAC Bosmere, Suffolk
+1 NAME Ernest Arthur /Borley/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=98
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=cd2eee84-0cdf-4e3f-8bad-52e5e591e68a&tid=102304546&pid=98
+2 FORM jpg
+2 TITL death Ernest A Borley
+1 FAMC @F16@
+0 @P99@ INDI 
+1 BIRT 
+2 DATE 1874
+2 PLAC Helmingham, Suffolk, England
+1 NAME Laura /Borley/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=99
+1 FAMC @F16@
+0 @P100@ INDI 
+1 BIRT 
+2 DATE October 1871
+2 PLAC Winston, Suffolk, England
+1 NAME Alice /Borley/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=100
+1 FAMC @F16@
+1 FAMS @F27@
+0 @P101@ INDI 
+1 BIRT 
+2 DATE 1903
+2 PLAC Bosmere, Suffolk
+1 DEAT 
+2 DATE 30 Oct 1937
+2 PLAC Gloucester Rural, Gloucestershire, England
+1 NAME reginald charles /borley/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=101
+1 FAMC @F27@
+0 @P102@ INDI 
+1 NAME Mary Ann /Cook/
+1 BIRT 
+2 DATE abt 1825
+2 PLAC Snape, Suffolk, England
+1 DEAT 
+2 DATE April 1896
+2 PLAC Woodbridge, Suffolk, England
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=102
+1 FAMS @F20@
+0 @P103@ INDI 
+1 BIRT 
+2 DATE About 1825
+2 PLAC Kirton, Suffolk, England
+1 NAME Isaac /Howell/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=103
+1 FAMS @F20@
+0 @P104@ INDI 
+1 DEAT 
+2 DATE 13 Dec 1968
+1 BIRT 
+2 DATE 1884
+2 PLAC Esher, Surrey, England
+1 NAME William James /Howell/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=104
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=88cb8353-348f-4cbb-b4df-8c4601acc4a4&tid=102304546&pid=104
+2 FORM htm
+2 TITL Rev W J Howell
+1 FAMC @F17@
+0 @P105@ INDI 
+1 BIRT 
+2 DATE abt 1882
+2 PLAC Plumstead, Kent, England
+1 NAME Amelia M /Howell/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=105
+1 FAMC @F17@
+0 @P106@ INDI 
+1 BIRT 
+2 DATE 1903
+2 PLAC London, England
+1 NAME Edward George /Howell/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=106
+1 FAMC @F17@
+0 @P107@ INDI 
+1 SEX F
+1 NAME lorraine /Chemar/
+1 FAMC @F19@
+0 @P108@ INDI 
+1 SEX F
+1 NAME Maya /Chemar/
+1 FAMC @F28@
+0 @P109@ INDI 
+1 NAME Anna /Chemar/
+1 SEX F
+1 FAMC @F28@
+0 @P110@ INDI 
+1 BIRT 
+2 DATE 1850
+2 PLAC Falkenham, Suffolk, England
+1 NAME Charles /Howel/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=110
+1 FAMC @F20@
+0 @P111@ INDI 
+1 DEAT 
+2 PLAC Essex, England
+1 BIRT 
+2 DATE 1855
+2 PLAC Falkenham, Suffolk, England
+1 NAME George /Howell/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=111
+1 FAMC @F20@
+0 @P112@ INDI 
+1 BIRT 
+2 DATE abt 1862
+2 PLAC Falkenham, Suffolk, England
+1 NAME Mary /Howell/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=112
+1 FAMC @F20@
+0 @P113@ INDI 
+1 BIRT 
+2 DATE 1870
+2 PLAC Falkenham, Suffolk, England, United Kingdom
+1 NAME Ellen /Howell/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=113
+1 FAMC @F20@
+0 @P114@ INDI 
+1 BIRT 
+2 DATE 1865
+2 PLAC Falkenham, Suffolk, England, United Kingdom
+1 NAME Elizabeth /Howell/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=114
+1 FAMC @F20@
+0 @P115@ INDI 
+1 BIRT 
+2 DATE 1852
+2 PLAC Falkenham, Suffolk, England
+1 NAME Eliza /Howel/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=115
+1 FAMC @F20@
+0 @P116@ INDI 
+1 BIRT 
+2 DATE Dec 1862
+2 PLAC Abbey-Cwmhir, Radnorshire, Wales
+1 DEAT 
+2 DATE 1943
+2 PLAC Reg'd Newtown
+1 NAME Sarah /Jones/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=116
+1 FAMS @F21@
+0 @P117@ INDI 
+1 BIRT 
+2 DATE abt 1890
+2 PLAC Llananno, Radnorshire, Wales
+1 NAME Margaret M /Bound/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=117
+1 FAMC @F21@
+0 @P118@ INDI 
+1 BIRT 
+2 DATE 27 October 1881
+2 PLAC Abbey Cwm Hir, Rhayader, Radnor, Wales
+1 DEAT 
+2 DATE 26 May 1958
+2 PLAC Brynhesglyn, Llanidloes
+1 NAME Sarah Jane /Bound/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=118
+1 FAMC @F21@
+0 @P119@ INDI 
+1 DEAT 
+2 DATE 15 OCT 1963
+2 PLAC Shrewsbury, Shropshire
+1 BIRT 
+2 DATE 12 JUL 1897
+2 PLAC Llananno, Radnorshire, Wales
+1 NAME Edwin /Bound/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=119
+1 FAMC @F21@
+0 @P120@ INDI 
+1 BIRT 
+2 DATE ABT 1889
+2 PLAC Llananno, Radnorshire
+1 NAME John /Bound/
+1 SEX M
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=120
+1 FAMC @F21@
+0 @P121@ INDI 
+1 BIRT 
+2 DATE Apr 1883
+2 PLAC Abbeycwmhir, Radnorshire
+1 NAME Margaret W /Bound/
+1 SEX F
+1 SOUR @S401847437@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=102304546&pid=121
+1 FAMC @F21@
+0 @F1@ FAM 
+1 HUSB @P1@
+1 WIFE @P2@
+0 @F2@ FAM 
+1 HUSB @P5@
+1 WIFE @P4@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM 
+1 HUSB @P8@
+1 WIFE @P9@
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P15@
+1 WIFE @P16@
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P17@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P12@
+1 WIFE @P11@
+1 CHIL @P22@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P29@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P30@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 22 Feb 1912
+2 PLAC Coleraine, Londonderry, Northern Ireland
+0 @F6@ FAM 
+1 HUSB @P10@
+1 WIFE @P36@
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P35@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE October 23 1977
+2 PLAC Etobicoke, Toronto, Ontario, Canada
+0 @F7@ FAM 
+1 HUSB @P38@
+1 WIFE @P37@
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+0 @F8@ FAM 
+1 HUSB @P14@
+1 WIFE @P13@
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P44@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P45@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P42@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 8 Dec 1926
+2 PLAC Winnipeg, Manitoba, Canada
+2 SOUR @S401849922@
+3 _APID 1,70600::1096284
+0 @F9@ FAM 
+1 HUSB @P47@
+1 WIFE @P46@
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P50@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Jul 1906
+2 PLAC Bosmere, Suffolk
+0 @F10@ FAM 
+1 HUSB @P33@
+1 WIFE @P32@
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 24 Oct 1876
+2 PLAC Northern Ireland
+0 @F11@ FAM 
+1 HUSB @P40@
+1 WIFE @P39@
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P61@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P60@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P59@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P58@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Nov 21 1884
+2 PLAC Baptist Church, Short Bridge Street, Llanidloes,  Wales
+0 @F12@ FAM 
+1 HUSB @P66@
+1 WIFE @P65@
+1 CHIL @P70@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P68@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P69@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P71@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P39@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 22 June 1846
+2 PLAC llandinum
+0 @F13@ FAM 
+1 HUSB @P64@
+1 WIFE @P63@
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P74@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Dec 23 1848
+0 @F14@ FAM 
+1 HUSB @P73@
+1 WIFE @P72@
+1 CHIL @P64@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P81@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P86@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P84@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P83@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P85@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P87@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 15 Jan 1827
+2 PLAC Llanbister, Radnorshire, Wales
+0 @F15@ FAM 
+1 HUSB @P90@
+1 WIFE @P87@
+1 CHIL @P88@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P91@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P89@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P92@
+2 _FREL Natural
+2 _MREL Natural
+0 @F16@ FAM 
+1 HUSB @P49@
+1 WIFE @P48@
+1 CHIL @P100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P98@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P96@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P47@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P97@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE October 1870
+2 PLAC Bosmere, Suffolk
+0 @F17@ FAM 
+1 HUSB @P51@
+1 WIFE @P52@
+1 CHIL @P105@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P104@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P46@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P106@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE October 15 1884
+2 PLAC Southwark, Surrey, England
+0 @F18@ FAM 
+1 HUSB @P20@
+1 WIFE @P21@
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+0 @F19@ FAM 
+1 HUSB @P19@
+1 WIFE @P18@
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P107@
+2 _FREL Natural
+2 _MREL Natural
+0 @F20@ FAM 
+1 HUSB @P103@
+1 WIFE @P102@
+1 CHIL @P110@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P115@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P51@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P112@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P113@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE November 25 1848
+2 PLAC Kirton, Suffolk, England, United Kingdom
+0 @F21@ FAM 
+1 HUSB @P71@
+1 WIFE @P116@
+1 CHIL @P118@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P121@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P120@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P117@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P119@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Sep 1881
+2 PLAC Rhayader
+1 MARR 
+2 DATE Jun 1889
+2 PLAC Newtown, Montgomeryshire, Wales
+0 @F22@ FAM 
+1 HUSB @P1@
+1 CHIL @P3@
+2 _FREL Natural
+0 @F23@ FAM 
+1 HUSB @P55@
+1 CHIL @P32@
+2 _FREL Natural
+0 @F24@ FAM 
+1 HUSB @P54@
+1 CHIL @P33@
+2 _FREL Natural
+0 @F25@ FAM 
+1 HUSB @P6@
+1 CHIL @P53@
+2 _FREL Natural
+0 @F26@ FAM 
+1 WIFE @P34@
+1 CHIL @P94@
+2 _MREL Natural
+1 CHIL @P95@
+2 _MREL Natural
+0 @F27@ FAM 
+1 WIFE @P100@
+1 CHIL @P101@
+2 _MREL Natural
+0 @F28@ FAM 
+1 WIFE @P17@
+1 CHIL @P108@
+2 _MREL Natural
+1 CHIL @P109@
+2 _MREL Natural
+0 @R400114439@ REPO
+1 NAME Ancestry.com
+0 @S401847315@ SOUR
+1 REPO @R400114439@
+1 TITL Canada, Obituary Collection, 1898-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8961::0
+0 @S401847437@ SOUR
+1 REPO @R400114439@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S401849922@ SOUR
+1 REPO @R400114439@
+1 TITL Web: Manitoba, Marriage Index, 1879-1931
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,70600::0
+0 TRLR

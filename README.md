@@ -3,6 +3,10 @@ Open Source Blair Family Information - Can be imported to Ancestry, Gramps, Etc.
 
 ## Family
 
+The Blair clan in Winnipeg is made up of the Blairs from Northern Ireland and the Jones' from Wales and England.
+
+<img src="/img/BlairFamily.png" />
+
 ## Usage
 
 You can import this information into software like Gramps, Ancestry or other geneological information to add to and take from for your own family if you happen to be connected to our clan.
